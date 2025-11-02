@@ -26,12 +26,12 @@ Melalui aplikasi ini, pengguna dapat belajar bagaimana komputer merepresentasika
 
 ---
 
-© 2024 | Proyek Konversi Bilangan — Informatika Universitas Jenderal Soedirman
-
 ## 💻 Teknologi yang Digunakan
 - **Bahasa Pemrograman:** Python  
 - **Konsep Utama:** Sistem bilangan dan logika konversi numerik  
 
 ---
+
+© 2024 | Proyek Konversi Bilangan — Informatika Universitas Jenderal Soedirman
 
 
